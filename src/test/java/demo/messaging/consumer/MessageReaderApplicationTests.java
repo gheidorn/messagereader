@@ -1,4 +1,4 @@
-package demo.messaging;
+package demo.messaging.consumer;
 
 import demo.messaging.consumer.MessageReaderApplication;
 import org.junit.Test;
