@@ -1,4 +1,4 @@
-package demo;
+package demo.messaging.consumer;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.springframework.boot.SpringApplication;
